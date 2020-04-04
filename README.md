@@ -1,3 +1,3 @@
 # nodejs-chatbox
 
-a conventional chatbox using NodeJS, Express and socket.io .
+a conventional Real time chatbox using NodeJS, Express and socket.io .
